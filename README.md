@@ -9,7 +9,7 @@ Anatomy of the Deep Learning Principle，Implementing Deep Learning Libraries fr
 
 欢迎大家购买本书作者的“C++17从入门到精通”（清华大学出版社）和“Python3从入门到实战”（电子工业大学出版社）。本书作者的相关网站：
 
-+ 博客网站：https://hwdong-net.github.io
-+ youtube频道:hwdong
-+ bilibili网站：hw-dong
++ 博客网站：[https://hwdong-net.github.io](https://hwdong-net.github.io)
++ youtube频道: [hwdong](http://www.youtube.com/c/hwdong)
++ bilibili网站：[hw-dong](https://space.bilibili.com/281453312)
 
