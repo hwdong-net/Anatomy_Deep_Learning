@@ -3,6 +3,10 @@ Anatomy of the Deep Learning Principle，Implementing a Deep Learning Library fr
 
 《解剖深度学习原理，从0实现深度学习库》由电子工业大学出版社将在2020年8月底出版。和一般深度学习书及教程不同，不是教你使用工具（武器）而是教你制造工具（武器）。你不再是API调用工，而是API开发者。没有复杂的数学公式，不需要多深的数学，针对小白，详细剖析原理与实现！
 
+**更新**（2021年7月17日）：因某些原因，书延迟了1年才出版，现在可以在各大平台（淘宝、当当、京东）上购买了
+
+**电子书：[https://leanpub.com/dl_0](https://leanpub.com/dl_0)**
+
 [本书内容介绍视频](https://www.bilibili.com/video/BV1gp4y1q77b)或[youtube视频](https://youtu.be/QamF3tK-pcU)
 
 本书配套视频课程：[解剖深度学习原理，从0实现深度学习库](https://ke.qq.com/course/2900371?tuin=ac5537fd) 。本书作者亲自制作讲解本书内容，视频内容将会长期不断修改、改进和更新，“你值得拥有”。欢迎大家购买、宣传、转发。谢谢！ 
@@ -15,7 +19,7 @@ Anatomy of the Deep Learning Principle，Implementing a Deep Learning Library fr
 - [youtube channel 频道: hwdong](http://www.youtube.com/c/hwdong)
 - [blog 博客：](https://hwdong-net.github.io)
 - [腾讯课堂高质量编程课程：](http://hwdong.ke.qq.com)
-- [B站编程课程hw-dong：](https://space.bilibili.com/281453312)
+- [B站免费编程课程hw-dong：](https://space.bilibili.com/281453312)
 - [推特 :](https://twitter.com/hwdong)
 - [电报群：](https://t.me/hwdong)
 - QQ群：376330161
@@ -30,9 +34,17 @@ Anatomy of the Deep Learning Principle，Implementing a Deep Learning Library fr
 + 《C++17从入门到精通》清华大学出版社，2009年9月出版）。还在学习传统的C++98标准吗？为什么看不懂工业界的C++代码？本书带小白轻松掌握现代C++17!
 + 《Python3从入门到实战》（电子工业出版社出版）. 语法和项目实战结合的python教材，通俗容懂，配有许多实战小项目如游戏编程、机器学习案例。
 
+#### 收费课程：
 
-#### YouTube频道列表：
-- [C语言快速入门（7小时）](https://www.youtube.com/playlist?list=PLBijWKRKPQMI11w6DDO6ZlfAfYkIuQYwM)
++ [解剖深度学习原理-从0编写深度学习库](https://ke.qq.com/course/2996033?tuin=ac5537fd)
++ [算法设计与分析](https://ke.qq.com/course/3580760)
++ [C++版数据结构](https://ke.qq.com/course/404761?tuin=ac5537fd)
++ [C语言版数据结构](https://ke.qq.com/course/406944?tuin=ac5537fd)
++ [迷宫问题的3种解法](https://ke.qq.com/course/405177?tuin=ac5537fd)
++ [C语言版数据结构2018](https://ke.qq.com/course/258409)
+
+#### 免费课程（YouTube频道列表）：
+- [C语言快速入门（C语言版数据结构20187小时）](https://www.youtube.com/playlist?list=PLBijWKRKPQMI11w6DDO6ZlfAfYkIuQYwM)
 - [从C到C++快速入门(2019版)： ](https://www.youtube.com/playlist?list=PLBijWKRKPQMLrjj9yT7TWW9Bc23l-aBLx)
 - [2 小时从C到C++快速入门： ](https://www.youtube.com/playlist?list=PLBijWKRKPQMIf5VxAa16muCQLnVeofvAn)
 - [Android studio 3 安卓开发起步： ](https://www.youtube.com/playlist?list=PLBijWKRKPQMI0wx480pAM87wUv_EvBcNf)
@@ -46,4 +58,3 @@ Anatomy of the Deep Learning Principle，Implementing a Deep Learning Library fr
 - [C++17从入门到精通（2020）：](https://www.youtube.com/playlist?list=PLBijWKRKPQMKB_JtUiXnKnCsM6s6qHWXG)
 - [Java快速入门教程: ](https://www.youtube.com/playlist?list=PLBijWKRKPQMKhzc8jmE0swJABDTj-jSME)
 - [面向信息奥赛的C++入门: ](https://www.youtube.com/playlist?list=PLBijWKRKPQML0kqsn1jgcAIyDBsOqMq_d)
-
