@@ -3,6 +3,19 @@ Anatomy of the Deep Learning Principle，Implementing a Deep Learning Library fr
 
 《解剖深度学习原理，从0实现深度学习库》由电子工业大学出版社将在2020年8月底出版。和一般深度学习书及教程不同，不是教你使用工具（武器）而是教你制造工具（武器）。你不再是API调用工，而是API开发者。没有复杂的数学公式，不需要多深的数学，针对小白，详细剖析原理与实现！
 
+"Anatomy of Deep Learning Principles, Implementing Deep Learning Library from 0" will be published by the Electronic Industry University Press at the end of August 2020. Different from general deep learning books and tutorials, it does not teach you to use tools (weapons) but to teach you to make tools (weapons). You are no longer an API caller, but an API developer. There are no complicated mathematical formulas, and no deep mathematics is required. For beginners, the principle and implementation are analyzed in detail!
+
+
+### **电子版购买链接 (Electronic version purchase link)**: 
+
+eBook link (English Version):  [https://leanpub.com/dle/](https://leanpub.com/dle/)  
+
+eBook link (ChineseVersion): [https://leanpub.com/dl_0](https://leanpub.com/dl_0)
+
+eBook link (Japanese): [https://leanpub.com/dl_jp](https://leanpub.com/dl_jp)
+
+eBook link (Traditional Chinese): [https://leanpub.com/dl_tw](https://leanpub.com/dl_tw)
+
 ### 教学资源
 
 - [youtube channel 频道: hwdong](http://www.youtube.com/c/hwdong)
